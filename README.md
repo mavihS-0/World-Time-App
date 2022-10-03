@@ -5,6 +5,7 @@ Created my first app using Flutter.
 #Information
 
 This app gives you a variety of locations to choose from and shows the accurate time in that region.
+
 Time is retrived from timeapi.io
 
 
